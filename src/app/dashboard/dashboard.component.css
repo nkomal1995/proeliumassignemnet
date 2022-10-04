@@ -1,0 +1,20 @@
+.dis{
+    margin-left: 80px;
+}
+.marT{
+    margin-top: 10px;
+}
+/* *{
+    background-color:aqua;
+} */
+.dinmrt{
+    margin-top: 10px;
+    display: flex;
+    
+}
+.mrl{
+    margin-left: 10px;
+}
+.mrll{
+    margin-left: 200px;
+}
